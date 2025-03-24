@@ -1,5 +1,5 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-My name is Selim Ajimi. I am an android engineer living in  Tunis, Tunisia.
+My name is Selim Ajimi. I am an android engineer living in  Berlin, Germany.
 - 🌱 I’m currently working using Kotlin & Kotlin.
 - 😀 I like to run, code, and read in my free time.
 - 💬 Ask me about football ⚽.
